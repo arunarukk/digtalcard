@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Arun Kumar KK
+ORG:BeanOrbit
+TITLE:Flutter Developer
+TEL;TYPE=work,voice:+919876543210
+EMAIL:arun@example.com
+URL:https://www.beanorbit.com
+END:VCARD
